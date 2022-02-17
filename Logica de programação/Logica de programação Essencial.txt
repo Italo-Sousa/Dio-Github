@@ -1,0 +1,18 @@
+	Temas Abordados!
+	
+	Introdução a lógica de programação
+	
+	- Entendendo o que e lógica 
+	- Oque são algoritmos e pseudocodico 
+	- aprendendo fluxograma, variaveis e constantes 
+	- Tomadas de decisoes e expressoes 
+	- como ultilizar a concatenação
+
+	Introdução ao Portugol
+
+	- Aprenda a como ultilizar uma estrutura de repetição
+	- Oque são linguagens de programação?
+	- Aprenda a ultilizar desvios condicionais e boas práticas
+	  em programação
+	- Trabalhando com laços de repetição em portugol 
+ 

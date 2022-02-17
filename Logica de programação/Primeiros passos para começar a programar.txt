@@ -1,0 +1,38 @@
+	História da computação
+	
+	- Introdução
+	- Instrumentos computacionais
+	- Primeiros computadores
+	- Era dos computadores pessoais 
+	- Considerações sobre Ciência da Computação
+
+	Introdução a lógica de programação
+	
+	- O que é lógica de programação
+	- Técnicas de lógica de programação
+	
+	Algoritmos
+
+	- O que é algoritmo?
+	- Construção de algoritmos
+
+	Fundamentos de algoritmos
+
+	- Tipologia de Variáveis
+	- Instruções primitivas
+	- Estruturas condicionais e operadores 
+	- Estrutura de repetição
+	- Vetores e matrizes
+	- O que são funções 
+	- Instruções de entrada/saída
+	
+
+	Linguagem de programação
+
+	- Referência biliográficas 
+	- Introdução a linguagens de programação
+	- Como o computador entende o programa?
+	- Características de um programa
+	- Análise de código 
+	- Paradigmas de programação
+	

@@ -1,0 +1,21 @@
+	Conceitos iniciais sobre estrutura de dados, arrays e registro
+
+	- Introdução e objetivos 
+	- O que é estrutura de dados 
+	- Vetores e matrizes 
+	- O que são registros
+
+	Entenda o que são Listas, Pilhas e Filas
+
+	- Introdução e Objetivos 
+	- Oque são listas
+	- O que são pilhas
+	- O que são filas
+
+	Estruturas de dados do tipo Árvore, Tabela Hash e Grafos
+
+	- Introdução e Objetivos 
+	- O que são árvores 
+	- O que são tabelas hash
+	- O que são grafos
+	-  
